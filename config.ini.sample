@@ -1,0 +1,4 @@
+[github]
+token=
+repo=user_org-name/repository-name
+startFromBeforePRNumber=0
